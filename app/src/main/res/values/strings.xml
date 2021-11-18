@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RepasoExamen1Ev</string>
+    <string name="tvTitutlo">¿Desea comenzar?</string>
+    <string name="comenzar">Comenzar</string>
+    <string name="tvMotivo">Indica el motivo de la compra</string>
+    <string name="vehiculo">vehiculo</string>
+    <string name="enviar">Enviar</string>
+    <string name="volver">Volver</string>
+</resources>
